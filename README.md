@@ -6,15 +6,13 @@
 
 ## 📌 Overview
 
-This repository contains study notes, lab exercises, policy drafts, and group presentation materials related to **Information Assurance Policy Development**.
+This repository contains study notes, lab exercises, policy drafts, and group presentation materials related to **Information Assurance Policy Development** (IAP301 - Group 11).
 
 The course emphasizes how security policies:
 - Support organizational goals
 - Mitigate risks across IT domains
 - Ensure governance, compliance, and accountability
 - Align with international standards and best practices
-
-The content follows a **structured policy framework approach**, progressing from foundational concepts to implementation, monitoring, and compliance.
 
 ---
 
@@ -29,7 +27,59 @@ The content follows a **structured policy framework approach**, progressing from
 
 ---
 
-## 📚 Core Topics Covered
+## � Repository Structure
+
+```
+security-policy-framework/
+│
+├── Hands-on-lab/                          # Group lab submissions (Group 11)
+│   ├── Lab01 - Acceptable Use Policy (AUP).docx
+│   ├── Lab02 - Organization-Wide Policy Framework Implementation Plan.docx
+│   ├── Lab03 - Information Systems Security Policy Framework.docx
+│   ├── Lab04 - Layered Security Management Policy – Separation of Duties.docx
+│   ├── Lab05 - Organization-Wide Security Awareness Policy.pdf
+│   ├── Lab06 - Remote Access Policy for Remote Healthcare Clinics.pdf
+│   ├── Lab07.docx
+│   ├── Lab08.docx
+│   ├── Lab09.docx
+│   └── Lab10.pdf
+│
+├── Material/
+│   ├── Johnson_textbook.pdf               # Primary course textbook
+│   ├── Labs/                              # Official lab instruction sheets (Lab01–Lab10)
+│   ├── Slides/                            # Lecture slides (Lect01–Lect10)
+│   └── Refs/                              # Reference materials
+│       ├── NIST.SP.800-171.pdf
+│       ├── Bosworth et al. - Computer Security Handbook 6E (2014)
+│       └── Williams - InfoSec Policy Development (ISO 27001, NIST 800-53)
+│
+├── Developing an Organization-Wide Security Awareness Policy for IT Infrastructure.pdf
+├── Report IAP301.pdf                      # Final course report
+├── IAP.jpg                                # Cover image
+├── ĐĂNG KÝ NHÓM IAP301.pdf               # Group registration form
+└── README.md
+```
+
+---
+
+## 🧪 Labs & Practical Work
+
+| Lab | Topic |
+|-----|-------|
+| Lab 01 | Craft an Organization-Wide Security Management Policy for Acceptable Use |
+| Lab 02 | Develop an Organization-Wide Policy Framework Implementation Plan |
+| Lab 03 | Define an Information Systems Security Policy Framework for an IT Infrastructure |
+| Lab 04 | Craft a Layered Security Management Policy – Separation of Duties |
+| Lab 05 | Craft an Organization-Wide Security Awareness Policy |
+| Lab 06 | Define a Remote Access Policy to Support Remote Healthcare Clinics |
+| Lab 07 | Risk Management & Business Continuity Policy |
+| Lab 08 | Incident Response Policy (CIRT) |
+| Lab 09 | Policy Audit & Compliance Assessment |
+| Lab 10 | Advanced Policy Implementation & Monitoring |
+
+---
+
+## � Core Topics Covered
 
 - Information Assurance & ISS Policy Management
 - Risk Mitigation and Business Support Processes
@@ -45,97 +95,23 @@ The content follows a **structured policy framework approach**, progressing from
 
 ---
 
-## 🧪 Labs & Practical Work
+## � Key References & Standards
 
-This repository includes **policy-oriented lab exercises**, such as:
-
-- **Lab 01**: Acceptable Use Policy (AUP)
-- **Lab 02**: Organization-Wide Security Policy Framework
-- **Lab 03**: Separation of Duties (SoD) Policy
-- **Lab 04**: Security Awareness Policy
-- **Lab 05**: Remote Access Policy
-- **Lab 06**: Risk Management & Business Continuity Policies
-- **Lab 07**: Incident Response Policy (CIRT)
-- **Lab 08**: Policy Audit & Compliance Assessment
-- **Lab 09**: Alignment with the 7 Domains of IT Infrastructure
-- **Lab 10**: Advanced Policy Implementation & Monitoring
-
-Each lab focuses on **practical policy creation and evaluation**, not technical exploitation.
+| Resource | Description |
+|----------|-------------|
+| NIST SP 800-171 | Protecting Controlled Unclassified Information |
+| ISO/IEC 27001 | Information Security Management Systems |
+| NIST 800-53 | Security and Privacy Controls for Federal Information Systems |
+| Johnson Textbook | Primary course material |
+| Computer Security Handbook 6E | Bosworth et al., Wiley (2014) |
+| InfoSec Policy Development | Williams, CRC (2013) |
 
 ---
 
-## 📁 Repository Structure
+## 👥 Group Info
 
-```
-security-policy-framework/
-├── Material/
-│   ├── Johnson_textbook.pdf           # Primary course textbook
-│   ├── Labs/                          # Lab exercises and assignments
-│   │   ├── Lab01.pdf - Lab10.pdf     # Individual lab instructions
-│   └── Refs/                          # Reference materials
-│       ├── Bosworth-al (eds.)_Computer Sec HB_6E_Wiley (2014)_P.VIII.pdf
-│       ├── NIST.SP.800-171.pdf       # NIST Special Publication 800-171
-│       └── Williams_InfoSec Policy Develop_ISO_IEC 27001_NIST 800-53 etc._CRC (2013).pdf
-└── README.md                          # This file
-```
-
----
-
-## 📖 Key References & Standards
-
-### Primary Standards
-- **NIST SP 800-171**: Protecting Controlled Unclassified Information
-- **ISO/IEC 27001**: Information Security Management Systems
-- **NIST 800-53**: Security and Privacy Controls for Federal Information Systems
-
-### Textbooks & Resources
-- Johnson Textbook (Primary Course Material)
-- Computer Security Handbook, 6th Edition (Bosworth et al.)
-- Information Security Policy Development (Williams)
-
----
-
-## 🚀 Getting Started
-
-1. **Review Course Materials**: Start with the Johnson textbook for foundational concepts
-2. **Explore Lab Exercises**: Work through labs sequentially, building policy expertise
-3. **Reference Standards**: Use NIST and ISO materials for industry best practices
-4. **Apply Framework Thinking**: Focus on how policies integrate across organizational domains
-
----
-
-## 🎓 Course Focus Areas
-
-### Policy Framework Development
-- Organizational security policy hierarchy
-- Risk-based policy design
-- Stakeholder alignment and buy-in
-
-### Governance & Compliance
-- Separation of duties implementation
-- Audit and monitoring mechanisms
-- Regulatory compliance mapping
-
-### Implementation & Enforcement
-- Policy rollout strategies
-- Training and awareness programs
-- Automated compliance monitoring
-
----
-
-## 🤝 Contributing
-
-This repository serves as a learning resource for information assurance policy development. Contributions should focus on:
-- Policy templates and examples
-- Best practice documentation
-- Compliance mapping resources
-- Implementation case studies
-
----
-
-## 📄 License
-
-Educational use repository - please respect copyright of referenced materials and textbooks.
+- Course: IAP301 - Information Assurance Policy
+- Group: 11 (IA1801)
 
 ---
 
